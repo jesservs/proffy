@@ -1,0 +1,4 @@
+VSCODE - ctrl + B = esconde a coluna Explorer
+VSCODE - alt + z = quebra linhas para ajustar texto à tela
+VSCODE - crtl + shift + P + "shortcuts" = Abre página de atalhos do VSCODE
+Chrome - ctrl + shift + R = hard reload (limpa o cache)

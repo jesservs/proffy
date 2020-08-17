@@ -1,0 +1,26 @@
+VSCODE - ctrl + B = esconde a coluna Explorer
+VSCODE - alt + z = quebra linhas para ajustar texto à tela
+VSCODE - crtl + shift + P + "shortcuts" = Abre página de atalhos do VSCODE
+VSCODE - ctrl + D = seleciona outras ocorrências de uma palavra para editar de 1 vez
+Chrome - ctrl + shift + R = hard reload (limpa o cache)
+
+BASH
+cd /c/nlw = Muda o diretório
+pwd = Ver em que diretório está
+ctrl + L = Limpar terminal
+npm init -y = Iniciar um novo projeto
+npm install express = Instala uma biblioteca variada
+node src/server.js = Inicia o servidor
+npm install nodemon -D = Instala um monitoramento automatico para refresh LIVE VIEW
+Alterar "scripts" do package.json do projeto para "dev": "nodemon src/server.js"
+npm run dev = Inicia o server pelo nodemon
+
+Rodar server pelo GIT BASH:
+cd /c/nlw
+node src/server.js
+
+Instalar o Template Engine:
+npm install nunjucks
+
+Instalar o SQLite:
+npm install sqlite-async
